@@ -1,0 +1,5 @@
+https://github.com/lAmeR1/kaspa-db-filler/blob/main/main.py
+Функция async def handle_blocks_commited(e): Проверяет запущен ли ассинхронный процесс, если такой процесс не запущен, то пишет об этом в лог и запускает эту задачу
+
+https://github.com/dunossauro/python-funcional/blob/master/tools/gen_index.py
+Функция def write(_file, _dir): Сформировывает в файле _file список заголовков (или просто строк) на основе данных, извлечённых и упорядоченных из файлов директории _dir

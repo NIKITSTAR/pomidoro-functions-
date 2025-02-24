@@ -1,1 +1,1 @@
-# pomidoro-functions-
+Задания Fullstack. Функции, управляющие конструкции
