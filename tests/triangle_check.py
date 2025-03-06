@@ -25,7 +25,7 @@ def check_triangle(a, b, c):
 
 side1 = int(input("Введите длину первой стороны: "))
 side2 = int(input("Введите длину второй стороны: "))
-side3 = int(input("Введите длину третьей стороны: "))
+side3 = int(input("Введите длину третьей стороны: "))1
 
 check_triangle(side1, side2, side3)
 
